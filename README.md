@@ -1,6 +1,12 @@
 Ejercicio2
+Ejercicio2
 ## Welcome to GitHub Games - Omar Vásquez CAMBIO EN EL BRANCH Ejercicio2
 ## Welcome to GitHub Games - Omar Vásquez CAMBIO EN EL MAIN
+ qa
+## Welcome to GitHub Games - Omar Vásquez CAMBIO EN QA 1
+## Welcome to GitHub Games - WILSON VERA 
+** CAMBIO
+main
 main
 - wilVera
 - paso 5
