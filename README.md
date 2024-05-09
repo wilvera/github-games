@@ -1,4 +1,4 @@
-## Welcome to GitHub Games - Omar Vásquez CAMBIO EN EL MAIN
+## Welcome to GitHub Games - Omar Vásquez CAMBIO EN QA 1
 - wilVera
 
 A project based learning activity for people who are getting started with Git and GitHub.
