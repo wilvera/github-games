@@ -1,5 +1,9 @@
+qa
 dv
 CAMBIO DEV 1
+Ejercicio2
+Ejercicio2
+ main
 ## Welcome to GitHub Games - Omar Vásquez CAMBIO EN EL BRANCH Ejercicio2
 ## Welcome to GitHub Games - Omar Vásquez CAMBIO EN EL MAIN
  qa
@@ -10,6 +14,7 @@ main
 main
 - wilVera
 - paso 5
+ qa
 dev
 ## Welcome to GitHub Games - WILSON VERA 
 ** CAMBIO DEV 3
@@ -22,6 +27,8 @@ dev
 main
 - wilVera CAMBIO 4 EN QA
  qa
+=======
+main
 
 qa
 A project based learning activity for people who are getting started with Git and GitHub.
