@@ -1,7 +1,7 @@
  qa
 ## Welcome to GitHub Games - Omar Vásquez CAMBIO EN QA 1
 ## Welcome to GitHub Games - WILSON VERA 
-** CAMBIO
+** CAMBIO 3 EN QA
 main
 - wilVera
 
